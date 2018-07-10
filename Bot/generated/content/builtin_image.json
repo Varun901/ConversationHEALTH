@@ -1,0 +1,29 @@
+[
+  {
+    "id": "builtin_image-XYYu0j",
+    "formData": {
+      "image": "/media/42gryr1yycabfb9hbpe9-amazing.jpg",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-07-10T01:35:33.229Z"
+  },
+  {
+    "id": "builtin_image-eWgZTn",
+    "formData": {
+      "image": "/media/i7r8ko0q100427ux6zff-sad.png",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-07-10T01:36:53.666Z"
+  },
+  {
+    "id": "builtin_image-WHeMJx",
+    "formData": {
+      "image": "/media/qncmrx29xi8rr1q7jfxz-chatbot.gif",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-07-10T01:48:55.686Z"
+  }
+]

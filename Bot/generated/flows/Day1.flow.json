@@ -80,6 +80,7 @@
         }
       ],
       "onEnter": [
+        "say #!builtin_image-FEX6U3",
         "say #!builtin_single-choice-G0zuB7"
       ],
       "onReceive": []
@@ -212,6 +213,7 @@
         }
       ],
       "onEnter": [
+        "say #!builtin_image-h2yzPL",
         "say #!builtin_single-choice-uyHCL3"
       ],
       "onReceive": []
@@ -226,6 +228,7 @@
         }
       ],
       "onEnter": [
+        "say #!builtin_image-VyojFR",
         "say #!builtin_text-emltyw"
       ],
       "onReceive": null
@@ -244,6 +247,7 @@
         }
       ],
       "onEnter": [
+        "say #!builtin_image-tCaV2W",
         "say #!builtin_single-choice-PKGQd4"
       ],
       "onReceive": []
@@ -366,11 +370,86 @@
       "next": [
         {
           "condition": "true",
-          "node": ""
+          "node": "node-f470"
         }
       ],
       "onEnter": [
         "say #!builtin_text-18zsDh"
+      ],
+      "onReceive": null
+    },
+    {
+      "id": "f42d4bd322",
+      "name": "node-f470",
+      "next": [
+        {
+          "condition": "event.payload == 0",
+          "node": "node-f8bd"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_single-choice-C7BzZn"
+      ],
+      "onReceive": null
+    },
+    {
+      "id": "e7ecb1a517",
+      "name": "node-f8bd",
+      "next": [
+        {
+          "condition": "true",
+          "node": "node-c70d"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-N4kCI7",
+        "say #!builtin_image-VhNQi7"
+      ],
+      "onReceive": null
+    },
+    {
+      "id": "9277f034e8",
+      "name": "node-c70d",
+      "next": [
+        {
+          "condition": "true",
+          "node": "node-a593"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-jzs37n"
+      ],
+      "onReceive": null
+    },
+    {
+      "id": "c46993e6a9",
+      "name": "node-a593",
+      "next": [
+        {
+          "condition": "event.payload == 0",
+          "node": "node-9d24"
+        },
+        {
+          "condition": "event.payload == 1",
+          "node": "node-9d24"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_single-choice-hDuazn"
+      ],
+      "onReceive": []
+    },
+    {
+      "id": "e70a16478e",
+      "name": "node-9d24",
+      "next": [
+        {
+          "condition": "true",
+          "node": "END"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_carousel-2DJMVd"
       ],
       "onReceive": null
     }

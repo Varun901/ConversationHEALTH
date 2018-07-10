@@ -203,5 +203,32 @@
     },
     "createdBy": "admin",
     "createdOn": "2018-07-10T02:29:17.081Z"
+  },
+  {
+    "id": "builtin_text-aWyh_G",
+    "formData": {
+      "text": "There also isn't much research on the long-term effects.",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-07-10T18:58:11.371Z"
+  },
+  {
+    "id": "builtin_text-N4kCI7",
+    "formData": {
+      "text": "This diet plan is also not suitable for everyone!  Always ask your doctor before trying a new diet.",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-07-10T18:59:37.659Z"
+  },
+  {
+    "id": "builtin_text-jzs37n",
+    "formData": {
+      "text": "Do NOT try intermittent fasting if you are pregnant, have adrenal issues, blood sugar imbalance, or diabetes.",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-07-10T19:01:12.537Z"
   }
 ]

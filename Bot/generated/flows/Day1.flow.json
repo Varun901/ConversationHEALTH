@@ -390,7 +390,7 @@
       "onEnter": [
         "say #!builtin_single-choice-C7BzZn"
       ],
-      "onReceive": null
+      "onReceive": []
     },
     {
       "id": "e7ecb1a517",

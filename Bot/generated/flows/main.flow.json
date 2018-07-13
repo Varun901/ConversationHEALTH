@@ -5,7 +5,7 @@
     "next": [
       {
         "condition": "event.nlu.intent.is('forget')",
-        "node": "forget-my-name"
+        "node": "FitMoji_Preferences.flow.json"
       }
     ]
   },
@@ -63,7 +63,9 @@
     {
       "id": "a54a82eb7c",
       "name": "entry",
-      "onEnter": [],
+      "onEnter": [
+        "health_headline {}"
+      ],
       "onReceive": null,
       "next": [
         {

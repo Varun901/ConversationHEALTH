@@ -230,5 +230,122 @@
     },
     "createdBy": "admin",
     "createdOn": "2018-07-10T19:01:12.537Z"
+  },
+  {
+    "id": "builtin_text-TrwhK4",
+    "formData": {
+      "text": "Hey! My name is Ares, your neighbourhood bot here to deliver all of your nutrition and fitness news!",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-07-13T12:51:22.427Z"
+  },
+  {
+    "id": "builtin_text-3_IkpU",
+    "formData": {
+      "text": "That's awesome!",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-07-13T13:02:32.444Z"
+  },
+  {
+    "id": "builtin_text-9EGhNY",
+    "formData": {
+      "text": "Ahlie",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-07-13T13:03:10.534Z"
+  },
+  {
+    "id": "builtin_text-fUyFqo",
+    "formData": {
+      "text": "Oh no, hope you feel better!",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-07-13T13:03:30.273Z"
+  },
+  {
+    "id": "builtin_text-PSAdFC",
+    "formData": {
+      "text": "Ok message me when you are ready!",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-07-13T13:07:00.565Z"
+  },
+  {
+    "id": "builtin_text-0CZfBJ",
+    "formData": {
+      "text": "Bless up!",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-07-13T13:09:11.882Z"
+  },
+  {
+    "id": "builtin_text-KPtwJb",
+    "formData": {
+      "text": "That's perfectly fine!",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-07-13T13:13:40.015Z"
+  },
+  {
+    "id": "builtin_text-ZMyDdK",
+    "formData": {
+      "text": "Cool!",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-07-13T13:14:04.712Z"
+  },
+  {
+    "id": "builtin_text-in66C_",
+    "formData": {
+      "text": "Ok, we are gonna try to slowly increase that so you can strengthen your muscles and improve your stamina.",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-07-13T13:17:22.363Z"
+  },
+  {
+    "id": "builtin_text-42Bi80",
+    "formData": {
+      "text": "Damn, that's amazing! You're on your way to being super fit. Remember it is important to have at least 60  minutes of exercise every day.",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-07-13T13:19:05.215Z"
+  },
+  {
+    "id": "builtin_text-KTQzDm",
+    "formData": {
+      "text": "Perfect! You are all set!",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-07-13T13:19:42.915Z"
+  },
+  {
+    "id": "builtin_text-B~W5rd",
+    "formData": {
+      "text": "Hey! My name is Athena, your neighbourhood bot here to deliver all of your nutrition and fitness news!",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-07-13T13:29:34.887Z"
+  },
+  {
+    "id": "builtin_text-RnHP5L",
+    "formData": {
+      "text": "What's your name?",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-07-13T13:32:05.352Z"
   }
 ]
